@@ -7,8 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="redis-start" />
         <module name="mybatisplus-start" />
         <module name="es-start" />
+        <module name="boot-common" />
       </profile>
     </annotationProcessing>
   </component>

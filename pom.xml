@@ -11,6 +11,7 @@
     <modules>
         <module>mybatisplus-start</module>
         <module>es-start</module>
+        <module>redis-start</module>
     </modules>
 
     <properties>
